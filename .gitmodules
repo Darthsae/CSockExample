@@ -1,0 +1,3 @@
+[submodule "CSockLib"]
+	path = CSockLib
+	url = https://github.com/Darthsae/CSockLib.git

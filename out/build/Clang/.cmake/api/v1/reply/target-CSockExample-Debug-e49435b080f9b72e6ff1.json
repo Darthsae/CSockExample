@@ -45,13 +45,6 @@
 					"fragment" : "-g  "
 				}
 			],
-			"includes" : 
-			[
-				{
-					"backtrace" : 2,
-					"path" : "/workspaces/CSockExample/CSockLib/include"
-				}
-			],
 			"language" : "C",
 			"sourceIndexes" : 
 			[
@@ -78,15 +71,6 @@
 			{
 				"fragment" : "",
 				"role" : "flags"
-			},
-			{
-				"backtrace" : 2,
-				"fragment" : "-L\"/workspaces/CSockExample/CSockLib/src/**\"",
-				"role" : "libraryPath"
-			},
-			{
-				"fragment" : "-Wl,-rpath,\"/workspaces/CSockExample/CSockLib/src/**\"",
-				"role" : "libraries"
 			},
 			{
 				"backtrace" : 2,
